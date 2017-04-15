@@ -8,4 +8,5 @@ Steel structure
 - http://www.contractortalk.com/f14/steel-vs-wood-framing-32191/
 - https://www.whirlwindsteel.com/blog/bid/401068/wooden-frames-vs-steel-frames-the-showdown
 - Building estimate [see](https://www.buildingsguide.com/estimates/building-cost-estimate.php)
+- http://www.kompareit.com/homeandgarden/construction-compare-steel-vs-wood-house-framing.html
 - etc..
