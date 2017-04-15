@@ -7,4 +7,5 @@ Steel structure
 - http://finance.zacks.com/tax-writeoffs-building-new-home-1178.html
 - http://www.contractortalk.com/f14/steel-vs-wood-framing-32191/
 - https://www.whirlwindsteel.com/blog/bid/401068/wooden-frames-vs-steel-frames-the-showdown
+- Building estimate [see](https://www.buildingsguide.com/estimates/building-cost-estimate.php)
 - etc..
