@@ -5,4 +5,5 @@ Steel structure
 - http://www.budgethomekits.com/
 - homeguides.sfgate.com/common-tax-deductions-new-house-construction-8754.html
 - http://finance.zacks.com/tax-writeoffs-building-new-home-1178.html
+- http://www.contractortalk.com/f14/steel-vs-wood-framing-32191/
 - etc..
