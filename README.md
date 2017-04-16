@@ -10,6 +10,7 @@ Steel structure
 - Building estimate [see](https://www.buildingsguide.com/estimates/building-cost-estimate.php)
 - http://www.kompareit.com/homeandgarden/construction-compare-steel-vs-wood-house-framing.html
 - etc..
+
 Design a home
 -------------------
 - http://www.wikihow.com/Design-Your-Own-Home
