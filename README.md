@@ -16,5 +16,5 @@ Design a home
 - http://www.wikihow.com/Design-Your-Own-Home
 - https://www.youtube.com/watch?v=bZ3Sdm9v0rQ
 - http://www.bleuscape.com.au/blog/list-10-free-3d-home-architecture-design-programs/
-- [see] (http://www.homeplans.com/house-plans/hp/catalogsearch/advanced/#criteria[hw_sq_ft][min]=900&criteria[hw_sq_ft][max]=1600&criteria[architectural_styles][]=572)
+- [see](http://www.homeplans.com/house-plans/hp/catalogsearch/advanced/#criteria[hw_sq_ft][min]=900&criteria[hw_sq_ft][max]=1600&criteria[architectural_styles][]=572)
 - 
