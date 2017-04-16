@@ -17,4 +17,13 @@ Design a home
 - https://www.youtube.com/watch?v=bZ3Sdm9v0rQ
 - http://www.bleuscape.com.au/blog/list-10-free-3d-home-architecture-design-programs/
 - [see](http://www.homeplans.com/house-plans/hp/catalogsearch/advanced/#criteria[hw_sq_ft][min]=900&criteria[hw_sq_ft][max]=1600&criteria[architectural_styles][]=572)
-- 
+- https://floorplanner.com/
+- http://www.about-home-design.com/house-design.html
+- http://www.homedesign3d.net/EN/platforms/android,7
+- http://realestate.usnews.com/real-estate/articles/how-to-design-and-build-your-own-custom-home/
+- https://www.smartdraw.com/floor-plan/house-design-software.htm
+
+Financial mistakes
+---------------------
+- http://realestate.usnews.com/real-estate/articles/8-financial-mistakes-to-avoid-when-building-a-new-home/
+
