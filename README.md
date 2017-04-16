@@ -27,6 +27,7 @@ Financial mistakes
 ---------------------
 - http://realestate.usnews.com/real-estate/articles/8-financial-mistakes-to-avoid-when-building-a-new-home/
 - https://www.newhomesource.com/resourcecenter/articles/the-teardown-option-is-it-for-you
+- https://www.zillow.com/advice-thread/New-Construction-Loan-To-tear-down-house-and-rebuild/507016/
 
 
 Rebuild a home
