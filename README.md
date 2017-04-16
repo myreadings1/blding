@@ -26,4 +26,9 @@ Design a home
 Financial mistakes
 ---------------------
 - http://realestate.usnews.com/real-estate/articles/8-financial-mistakes-to-avoid-when-building-a-new-home/
+- https://www.newhomesource.com/resourcecenter/articles/the-teardown-option-is-it-for-you
 
+
+Rebuild a home
+------------------
+- https://money.stackexchange.com/questions/36882/construction-loan-for-new-house-replacing-existing-mortgaged-house
